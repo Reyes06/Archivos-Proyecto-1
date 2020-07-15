@@ -1,0 +1,51 @@
+digraph G {
+nodo [shape=plaintext label=<
+<table><tr>
+<td rowspan="3" color="red"><b>MBR</b></td>
+<td rowspan="2" color="orange">[PRI] Part12</td>
+<td rowspan="2" color="orange">[PRI] Part13</td>
+<td rowspan="2" color="orange">[PRI] Part14</td>
+<td colspan="21" color="blue">[EXT] Part15</td>
+<td rowspan="2" color="gray">Libre</td>
+</tr>
+<tr>
+<td color="green"><b>EBR</b></td>
+<td color="green">[LOG] Part16</td>
+<td color="green"><b>EBR</b></td>
+<td color="green">[LOG] Part17</td>
+<td color="green"><b>EBR</b></td>
+<td color="green">[LOG] Part18</td>
+<td color="green"><b>EBR</b></td>
+<td color="green">[LOG] Part19</td>
+<td color="green"><b>EBR</b></td>
+<td color="green">[LOG] Part20</td>
+<td color="green"><b>EBR</b></td>
+<td color="green">[LOG] Part21</td>
+<td color="green"><b>EBR</b></td>
+<td color="green">[LOG] Part22</td>
+<td color="green"><b>EBR</b></td>
+<td color="green">[LOG] Part23</td>
+<td color="green"><b>EBR</b></td>
+<td color="green">[LOG] Part24</td>
+<td color="green"><b>EBR</b></td>
+<td color="green">[LOG] Part25</td>
+<td color="gray">Libre</td>
+</tr>
+<tr>
+<td color="orange">9.14%</td>
+<td color="orange">9.14%</td>
+<td color="orange">9.14%</td>
+<td colspan="2" color="green">2.34%</td>
+<td colspan="2" color="green">2.34%</td>
+<td colspan="2" color="green">2.34%</td>
+<td colspan="2" color="green">2.34%</td>
+<td colspan="2" color="green">2.34%</td>
+<td colspan="2" color="green">2.34%</td>
+<td colspan="2" color="green">2.34%</td>
+<td colspan="2" color="green">2.34%</td>
+<td colspan="2" color="green">2.34%</td>
+<td colspan="2" color="green">2.34%</td>
+<td color="gray">10.47%</td>
+<td color="gray">38.67%</td>
+</tr>
+</table>>];}
